@@ -3,11 +3,11 @@ services:
   app:
     image: your-spring-boot-image:latest # 여기에 실제 Spring Boot 애플리케이션 이미지 이름을 넣어주세요
     ports:
-      - "8083:8083"
+      - "8088:8088"
     environment:
       SPRING_DATASOURCE_DRIVER_CLASS_NAME: com.mysql.cj.jdbc.Driver
-      SPRING_DATASOURCE_URL: jdbc:mysql://database-1.cp0mag4s6790.us-east-2.rds.amazonaws.com:3306/predict_money?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
-      SPRING_DATASOURCE_USERNAME: admin
+      SPRING_DATASOURCE_URL: jdbc:mysql://database-2.cp0mag4s6790.us-east-2.rds.amazonaws.com:3306/predict_money?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+      SPRING_DATASOURCE_USERNAME: root
       SPRING_DATASOURCE_PASSWORD: 123456789
     depends_on:
       - database
@@ -22,3 +22,12 @@ services:
       MYSQL_PASSWORD: 123456789 # 여기에 실제 MySQL 사용자 비밀번호를 넣어주세요
     ports:
       - "3306:3306"
+spring:
+  datasource: #항상 여기 주석 처리 해야 함
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456789
+  thymeleaf:
+    prefix: classpath:/templates/
+
+
