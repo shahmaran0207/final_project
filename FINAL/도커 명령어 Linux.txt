@@ -1,0 +1,12 @@
+1. 도커 파일 생성
+2. docker build -t 계정이름/이미지 파일 이름 .
+3. docker run -d -p 로컬포트:컨테이너포트 계정이름/이미지 파일 이름
+4. docker login
+5. docker push 계정이름/이미지 파일 이름
+6. EC2
+- sudo yum install docker
+- sudo systemctl start docker
+- sudo docker pull 계정이름/이미지 파일 이름
+- sudo docker run -d -p 로컬포트:컨테이너포트 계정이름/이미지 파일 이름
+
+로컬포트 인바운드 규칙에서 추가해주고 EC2 RDS연결
