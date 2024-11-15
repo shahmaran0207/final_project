@@ -37,19 +37,19 @@
     - **식사**: 최대 15끼 선택 가능
     - **목적**: 스키장, 문화서비스, 관광유원시설, 골프장 중 선택
     - **쇼핑**: 면세점, 레저용품, 대형쇼핑몰 중 선택
-    - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/area.png" alt="area" width="100"/>
-    - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/month&sleep.png" alt="month&sleep" width="100"/>
-    - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/food&goal.png" alt="food&goal" width="100"/>
-    - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/food&goal.png" alt="shop" width="100"/>
+    - <img src="https://github.com/shahmaran0207/final_project/blob/main/area.png" alt="area" width="100"/>
+    - <img src="https://github.com/shahmaran0207/final_project/blob/main/month&sleep.png" alt="month&sleep" width="100"/>
+    - <img src="https://github.com/shahmaran0207/final_project/blob/main/food&goal.png" alt="food&goal" width="100"/>
+    - <img src="https://github.com/shahmaran0207/final_project/blob/main/food&goal.png" alt="shop" width="100"/>
 
 - **💵 경비 입력**:
   - 두 번째 서비스를 선택한 고객만 직접 입력 가능합니다.
-  - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/input.png" alt="input" width="100"/>
+  - <img src="https://github.com/shahmaran0207/final_project/blob/main/input.png" alt="input" width="100"/>
 
 - **📊 예상 경비 출력**:
   - 사용자의 계획을 바탕으로 예상 여행 경비를 계산하여 제공합니다.
-  - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/first.png" alt="input" width="100"/>
-  - <img src="https://github.com/shahmaran0207/Shooting_Game/blob/main/second.png" alt="input" width="100"/>
+  - <img src="https://github.com/shahmaran0207/final_project/blob/main/first.png" alt="input" width="100"/>
+  - <img src="https://github.com/shahmaran0207/final_project/blob/main/second.png" alt="input" width="100"/>
 ---
 
 ## 4️⃣ Tasks & Responsibilities (작업 및 역할 분담)
