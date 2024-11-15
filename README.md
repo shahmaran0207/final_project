@@ -102,19 +102,36 @@
 ## 8️⃣ Project Structure (프로젝트 구조)
 ```plaintext
 project/
-├── public/
-│   ├── index.html           # HTML 템플릿 파일
-│   └── favicon.ico          # 아이콘 파일
 ├── src/
-│   ├── assets/              # 이미지, 폰트 등 정적 파일
-│   ├── components/          # 재사용 가능한 UI 컴포넌트
-│   ├── hooks/               # 커스텀 훅 모음
-│   ├── pages/               # 각 페이지별 컴포넌트
-│   ├── App.js               # 메인 애플리케이션 컴포넌트
-│   ├── index.js             # 엔트리 포인트 파일
-│   ├── index.css            # 전역 css 파일
-│   ├── firebaseConfig.js    # firebase 인스턴스 초기화 파일
-│   package-lock.json        # 정확한 종속성 버전 기록 파일
-│   package.json             # 프로젝트 종속성 및 스크립트 정의
-├── .gitignore               # Git 무시 파일 목록
-└── README.md                # 프로젝트 개요 및 사용법
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── itbank/
+│       │           └── predict_money/
+│       │               ├── PredictApplication.java
+│       │               ├── controller/
+│       │               │   └── HomeController.java
+│       │               ├── model/
+│       │               │   └── PredictDAO.java
+│       │               ├── service/
+│       │               │   └── PredictService.java
+│       │               └── vo/
+│       │                   ├── AreaVO.java
+│       │                   ├── PredictVO.java
+│       │                   └── TableVO.java
+│       └── resources/
+│           ├── static/
+│           │   ├── assets/
+│           │   │   └── img/  (페이지에 사용되는 이미지 파일)
+│           │   ├── js/  (JavaScript 파일)
+│           │   ├── result.css
+│           │   ├── stylearea.css
+│           │   ├── stylemain.css
+│           │   └── stylemoney.css
+│           └── templates/
+│               ├── area.html  (지역 선택 페이지)
+│               ├── home.html  (메인 페이지)
+│               ├── money.html  (예산 페이지)
+│               ├── result.html  (area 페이지의 결과 페이지)
+│               └── result2.html  (money 페이지의 결과 페이지)
+
