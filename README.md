@@ -66,24 +66,28 @@
 
 ## 5️⃣ Technology Stack (기술 스택)
 
-### 5.1 Language
-| 언어        | 아이콘                                                           |
-| ----------- | ---------------------------------------------------------------- |
-| **HTML5**   | ![HTML](https://github.com/shahmaran0207/final_project/blob/main/html.png) |
-| **CSS3**    | ![CSS](https://github.com/shahmaran0207/final_project/blob/main/css.png) |
-| **Javascript** | ![JS](https://github.com/shahmaran0207/final_project/blob/main/js.png) |
+### 5.1 Language  
+| 언어          | 아이콘                                                                             |  
+| ------------- | ---------------------------------------------------------------------------------- |  
+| **HTML5**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> |  
+| **CSS3**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   |  
+| **JavaScript**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  
 
-### 5.2 Frontend
-| 기술        | 아이콘                                                           |
-| ----------- | ---------------------------------------------------------------- |
-| **HTML5**   | ![HTML](https://github.com/shahmaran0207/final_project/blob/main/html.png) |
-| **CSS3**    | ![CSS](https://github.com/shahmaran0207/final_project/blob/main/css.png) |
-| **Javascript** | ![JS](https://github.com/shahmaran0207/final_project/blob/main/js.png) |
+---
 
-### 5.3 Backend
-| 기술      | 아이콘                                                           |
-| --------- | ---------------------------------------------------------------- |
-| **Spring** | ![Spring](https://github.com/shahmaran0207/final_project/blob/main/spring.png) |
+### 5.2 Frontend  
+| 기술          | 아이콘                                                                             |  
+| ------------- | ---------------------------------------------------------------------------------- |  
+| **HTML5**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> |  
+| **CSS3**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   |  
+| **JavaScript**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  
+
+---
+
+### 5.3 Backend  
+| 기술          | 아이콘                                                                             |  
+| ------------- | ---------------------------------------------------------------------------------- |  
+| **Spring**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> |  
 
 ---
 
