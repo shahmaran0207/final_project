@@ -69,39 +69,21 @@
 ### 5.1 Language  
 | 언어          | 아이콘                                                                             |  
 | ------------- | ---------------------------------------------------------------------------------- |  
-| **HTML5**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> |  
-| **CSS3**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   |  
-| **JavaScript**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  
+| **HTML5**   측 과정**
+### 데이터 전처리
+<img src="https://github.com/shahmaran0207/final_project/blob/main/전처리t.png" alt="데이터 전처리" width="100%"/>
 
----
+### 표준화 (Standard Scaling)을 통한 정확도 향상
+<img src="https://github.com/shahmaran0207/final_project/blob/main/표준화.png" alt="데이터 통합" width="100%"/>
 
-### 5.2 Frontend  
-| 기술          | 아이콘                                                                             |  
-| ------------- | ---------------------------------------------------------------------------------- |  
-| **HTML5**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> |  
-| **CSS3**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>   |  
-| **JavaScript**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |  
+### 데이터 예측
+<img src="https://github.com/shahmaran0207/final_project/blob/main/예측2.png" alt="데이터 예측" width="100%"/>
 
----
+### 예측한 데이터 JSON 형태로 정의
+<img src="https://github.com/shahmaran0207/final_project/blob/main/json.png" alt="정확도 향상" width="100%"/>
 
-### 5.3 Backend  
-| 기술          | 아이콘                                                                             |  
-| ------------- | ---------------------------------------------------------------------------------- |  
-| **Spring**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> |  
-
----
-
-## 6️⃣ Data Resource (자료 출처)
-- **한국 관광 데이터랩**: [🔗 바로가기](https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do)
-
----
-
-## 7️⃣ Predict (예측)
-- **데이터 분석 및 예측**:
-  - `train_test_split` 함수를 사용하여 데이터를 훈련 및 테스트 세트로 분리
-  - `standScaler()`를 통해 데이터 표준화 후 예측 성능을 개선
-
-![Predict](https://github.com/shahmaran0207/final_project/blob/main/predict.png)
+### DB연결 및 데이터 삽입
+<img src="https://github.com/shahmaran0207/final_project/blob/main/DB connection.png" alt="지역별 데이터 예측" width="100%"/>
 
 ---
 
