@@ -123,3 +123,6 @@ project/
 │               ├── result.html                             (area 페이지의 결과 페이지)
 │               └── result2.html                            (money 페이지의 결과 페이지)
 
+
+## 📂 PPT 파일
+[📊 **My Presentation**](http://naver.me/xeAfPTO5)
