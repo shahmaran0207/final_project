@@ -75,7 +75,7 @@
 | ------------- | ---------------------------------------------------------------------------------- |  
 | **HTML5**   측 과정**
 ### 데이터 전처리
-<img src="https://github.com/shahmaran0207/final_project/blob/main/전처리t.png" alt="데이터 전처리" width="100%"/>
+<img src="https://github.com/shahmaran0207/final_project/blob/main/전처리.png" alt="데이터 전처리" width="100%"/>
 
 ### 표준화 (Standard Scaling)을 통한 정확도 향상
 <img src="https://github.com/shahmaran0207/final_project/blob/main/표준화.png" alt="데이터 통합" width="100%"/>
